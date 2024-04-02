@@ -32,4 +32,9 @@ If you found this mod not working as expected, please checks the following items
 
 ## New feature:
 ### v1.1.0 
-Check the changelog and the mod image "panel v1.1.0".
+- Makes this mod easier to use.
+  1. Support for Fluffy. Now you can just download it, and drag the zip file to Fluffy.
+  2. Set all skillset with Rearm skill by default. (If it is your first time to use this mod).
+  3. Add a "Apply to all" button. Which can apply rearm skill to all Left/Top/Right/Down skill slot.
+- Add a toggle that can remove the stamina cost by Rearm skill. Default OFF.
+- Change the hook to a more accurate one. Changing weapon in equipment menu won't trigger the skillset replacement. Only Rearm skill will.
